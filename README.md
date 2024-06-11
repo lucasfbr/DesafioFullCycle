@@ -2,8 +2,8 @@
 
 https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 
-- Baixar a imagem do dockerhub
-- Fazer o clone do projeto laravel do git: https://github.com/lucasfbr/DesafioFullCycle.git
+- Baixar a imagem do dockerhub: docker pull lucasfbr/laravelapp:1.0.0
+- Fazer o clone do projeto laravel git: https://github.com/lucasfbr/DesafioFullCycle.git
 - Executar com o comando: docker compose up -d
 - Abrir o navegador: 'http://localhost:8000/'
 
