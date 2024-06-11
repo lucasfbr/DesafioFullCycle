@@ -1,6 +1,6 @@
 ## Dockerhub
 
-'https://hub.docker.com/repository/docker/lucasfbr/laravelapp'
+https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 
 - Baixar a imagem do dockerhub
 - Fazer o clone do projeto laravel do git: https://github.com/lucasfbr/DesafioFullCycle.git
