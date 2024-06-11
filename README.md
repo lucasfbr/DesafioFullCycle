@@ -1,4 +1,4 @@
-## Dockerhub
+## Aplicação laravel para executar container criado no DockerHub
 
 https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 
