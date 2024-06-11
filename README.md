@@ -10,12 +10,13 @@ https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 Versão com script de entrypoint executando composer install, migrations, key:generate
 
 ## Atualização
-# Host e porta nginx podem ser definidas no docker-compose
+
+## Host e porta nginx podem ser definidas no docker-compose
 
 - Executar comando: docker-compose up -d
 - Para mudar o host ou a porta, deve editar no arquivo docker-compose.yaml
 
-# Variaveis definidas
+## Variaveis definidas
 
 - NGINX_HOST=app
 - NGINX_PORT=9000 
