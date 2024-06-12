@@ -25,4 +25,4 @@ Versão com script de entrypoint executando composer install, migrations, key:ge
 
 - Assim como descrito no desafio, foi criada uma imagem em Go e feito o push para o dockerhub.
 - Precisa exibir no console a seguinte frase Code.education Rocks!
-- docker run -it lucasfbr/codeeducation
+- Executar comando: docker run -it lucasfbr/codeeducation
