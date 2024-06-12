@@ -1,5 +1,7 @@
 ## Aplicação laravel para executar container criado no DockerHub
 
+## Tarefa 01
+
 https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 
 - Baixar a imagem do dockerhub: docker pull lucasfbr/laravelapp:1.0.0
@@ -8,8 +10,6 @@ https://hub.docker.com/repository/docker/lucasfbr/laravelapp
 - Abrir o navegador: 'http://localhost:8000/'
 
 Versão com script de entrypoint executando composer install, migrations, key:generate
-
-## Atualização
 
 ## Host e porta nginx podem ser definidas no docker-compose
 
@@ -20,3 +20,9 @@ Versão com script de entrypoint executando composer install, migrations, key:ge
 
 - NGINX_HOST=app
 - NGINX_PORT=9000 
+
+## Tarefa 02
+
+- Assim como descrito no desafio, foi criada uma imagem em Go e feito o push para o dockerhub.
+- Precisa exibir no console a seguinte frase Code.education Rocks!
+- docker run -it lucasfbr/codeeducation
